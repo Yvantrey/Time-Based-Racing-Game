@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DHtzm5eTG9fT7x+3Qk2ziqyz9rzner/h3jB8ArC2HtLDJ61/gtpCFwCR3a1HrB6h4w+8LQVtUoG0ZnRYjcy46Q==",
+  "success": true,
+  "projectFilePath": "D:\\Class\\ARVR\\Racing Game\\RacingGame\\RacingGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yvan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Yvan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Yvan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Yvan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
