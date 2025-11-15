@@ -65,7 +65,7 @@ namespace RacingGame
             // Stop any running timer
             _raceTimer?.Stop();
             
-            var track = new Track(3, 1000);
+            var track = new Track(5, 1000);
             var cars = new List<Car>
             {
                 new Car("Red Racer", 100, 50, 1),

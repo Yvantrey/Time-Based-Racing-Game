@@ -10,7 +10,7 @@ This is a strategic racing game where players manage multiple cars competing in 
 - **Real-time Racing**: Cars move automatically during the race with 100ms updates
 - **Fuel Management**: Strategic fuel consumption and pit stop decisions
 - **Multiple Cars**: Control different cars with unique stats (Red Racer, Blue Bolt, Green Machine)
-- **Lap System**: Complete 3 laps of 1000m each to win
+- **Lap System**: Complete 5 laps of 1000m each to win
 - **Time Pressure**: 2-minute race timer adds urgency
 - **Live Statistics**: Real-time display of speed, fuel, position, and lap progress
 
@@ -28,7 +28,7 @@ This is a strategic racing game where players manage multiple cars competing in 
 - **Pit Stop**: Instantly refuels the car to maximum capacity
 
 ### Winning Conditions
-- **Primary**: First car to complete 3 laps wins immediately
+- **Primary**: First car to complete 5 laps wins immediately
 - **Secondary**: If time runs out, the car with the most progress (laps + position) wins
 
 ### Strategy Tips
